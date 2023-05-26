@@ -49,10 +49,10 @@ function Calculator() {
           *
         </button>
         <button className="function" name="9" onClick={handleClick}>
-          99
+          9
         </button>
         <button className="number" name="6" onClick={handleClick}>
-          66
+          6
         </button>
         <button className="number" name="-" onClick={handleClick}>
           -
